@@ -1,3 +1,7 @@
+<p align="left">
+<img src="https://img.shields.io/badge/Build-Different%20-green">
+</p>
+
 ### Hi there, I'm Code Crash 👋
 
 ## I'm an idie game programmer based out of the United States.
