@@ -3,7 +3,7 @@
 ## I'm an idie game programmer based out of the United States.
 
 <br />
-
+####I love to make game and tinker with others code! My main hobbies include makeing game, playing around in unity, and modding the popular game Minecraft!
 ### Languages and Tools:
 
 
