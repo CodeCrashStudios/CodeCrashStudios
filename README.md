@@ -8,3 +8,11 @@
 
 <br />
  I love to make games and tinker with others code! My main hobbies include making games, playing around in unity, and modding the popular game Minecraft!
+ 
+ Knowlegeable in:
+ * C++
+ * C
+ * C# (Unity also)
+ * Java
+ * JavaScript (HTML, CSS, & Node.js too)
+ * Python
