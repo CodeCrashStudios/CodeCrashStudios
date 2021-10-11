@@ -7,11 +7,13 @@
 ## I'm an idie game programmer based out of the United States.
 
 <br />
- I love to make games and tinker with others code! My main hobbies include making games, playing around in unity, and modding the popular game Minecraft!
+ I love to make games and tinker with others code! My main hobbies include making games, 3d modeling, playing around in Unity, and modding games!
  
  Knowlegeable in:
+ * Blender
  * C++
  * C
+ * GLSL/HLSL
  * C# (Unity also)
  * Java
  * JavaScript (HTML, CSS, & Node.js too)
