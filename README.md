@@ -17,4 +17,4 @@
  * C# (Unity knowlege also)
  * Java (LWJGL knowlege)
  * JavaScript (HTML, CSS, & Node.js too)
- * Python
+ * Python(Also some GDScript knowlege)
