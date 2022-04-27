@@ -11,7 +11,7 @@
  
  Knowlegeable in:
  * Blender
- * C/C++ (OpenGL knowlege)
+ * C/C++ (Raylib, SFML, & OpenGL knowlege)
  * GLSL/HLSL
  * C# (Unity & Monogame knowlege also)
  * Java (LWJGL knowlege)
