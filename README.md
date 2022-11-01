@@ -10,10 +10,9 @@
  I love to make games and tinker with others code! My main hobbies include making games, 3d modeling, playing around in Unity, and modding games!
  
  Knowlegeable in:
- * Blender
  * C/C++ (Raylib, SFML, & OpenGL knowlege)
  * GLSL/HLSL
- * C# (Unity & Monogame knowlege also)
+ * C# (Unity & Monogame knowlege)
  * Java (LWJGL knowlege)
- * JavaScript (HTML, CSS, & Node.js too)
- * Python(Also some GDScript knowlege)
+ * JavaScript (HTML, CSS, & Node.js knowlege)
+ * Python(GDScript knowlege)
