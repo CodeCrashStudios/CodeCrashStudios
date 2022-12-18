@@ -13,6 +13,6 @@
  * C/C++ (Raylib, SFML, & OpenGL knowlege)
  * GLSL/HLSL
  * C# (Unity & Monogame(XNA) knowlege)
- * Java (LWJGL knowlege)
+ * Java (JavaFX & LWJGL knowlege)
  * JavaScript (HTML, CSS, & Node.js knowlege)
  * Python(Godot GDScript knowlege also)
