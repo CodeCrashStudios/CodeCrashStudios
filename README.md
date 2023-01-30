@@ -9,13 +9,13 @@ Hi there, I'm Code Crash (Also known as CC) 👋
 I love to make games and tinker with others' code! My main hobbies include: creating games, 3D modeling, playing around in Unity, and modding games!
 <br>
 ### Knowledgeable in:
-* C/C++
-> Raylib, SFML, & OpenGL knowledge
 * C#
-> Monogame knowledge & Unity knowledge
+> OpenTK, Monogame, & Unity knowledge
 * Java
 > JavaFX & LWJGL knowledge
 * JavaScript 
-> HTML, CSS, Electron, & Node.js knowledge
+> Electron, & Node.js knowledge
+* C/C++
+> Raylib, SFML, & OpenGL knowledge
 * Python
-> Godot GDScript knowledge also
+> Pygame knowledge
