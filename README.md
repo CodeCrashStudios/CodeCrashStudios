@@ -10,11 +10,11 @@ I love to make games and tinker with others' code! My main hobbies include: crea
 <br>
 ### Knowledgeable in:
 * C#
-> OpenTK, Monogame, & Unity knowledge
+> OpenTK, Monogame/XNA, & Unity knowledge
 * Java
 > JavaFX & LWJGL knowledge
 * JavaScript 
-> Electron, & Node.js knowledge
+> Electron, Express.js, & Node.js knowledge
 * C/C++
 > Raylib, SFML, & OpenGL knowledge
 * Python
