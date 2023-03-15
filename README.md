@@ -19,3 +19,5 @@ I love to make games and tinker with others' code! My main hobbies include: crea
 > Raylib, SFML, & OpenGL knowledge
 * Python
 > Pygame knowledge
+* Other
+> Able to work with UNIX/Linux based systems
