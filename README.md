@@ -6,7 +6,7 @@ Hi there, I'm Code Crash (Also known as CC) 👋
 ### I'm a Computer Science and Cyber Security student from the United States.
 
 
-I love to make games and tinker with others' code! My main hobbies include: creating games, 3D modeling, playing around in Unity, and modding games!
+I love to make games and tinker with others' code! My main hobbies include: creating games, 3D modeling, playing around in Unity, and modding/reverse engineering!
 <br>
 ### Knowledgeable in:
 * C#
